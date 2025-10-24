@@ -1,0 +1,5 @@
+{
+  "name": "Yapay Zeka Video Oluşturucu",
+  "description": "Kullanıcı tarafından yüklenen bir görsel ve metin istemi kullanarak Gemini API ile video oluşturan bir uygulama. Kullanıcılar bir resim yükleyebilir, talimatlar verebilir ve sonuçta ortaya çıkan videoyu indirebilir.",
+  "requestFramePermissions": []
+}
